@@ -14,3 +14,38 @@ DevOps = Development + Operations
 - Devops helps organization to work in a more agile manner.
 
 
+### DevOps Tools
+
+Version Control --> GIT, TFS, SVN
+Cloud  --> Azure, AWS
+Scripting  --> Shell, Powershell, Python
+CI/CD    --> Jenkins, Azure DevOps, GitLab
+Containerization --> Docker, Kubernetes
+Configuration -->  Ansible, CHEF
+Testing --> Selenium, JUnit
+Monitoring --> Nagios, Splunk
+Compilation --> MSBuild, Maven, ANT
+
+### Certifications
+
+- Designing and Implementing Microsoft DevOps Solutions
+- Microsoft Certified Devops Engineer Expert
+
+### Basic Concepts 
+
+**Cloud Computing**
+Cloud computing eliminates the need to manage physical computing infrastructure.
+
+**IaaS - Infrastructure as a Service**
+Provides a complete infrastructure othe internet.
+User can purchase, install, configure, and operate the software that runs on it, such as operating systems, apps and middleware.
+Examples: Azure VM, EC2
+
+Paas - Platform as a Service
+Provides a complete development and deployment environment in the cloud.
+Allows developers to build, test, and deploy applications without managing the underlying infrastructure.
+Examples: App Service, AWS Lamda
+
+SaaS - Software as a Service
+
+
